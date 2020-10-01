@@ -21,7 +21,7 @@ a {
 
 .side-bar {
   width: 250px;
-  box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+  box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 13px 7px #d4d4d5;
   z-index: 1;
   position: relative;
 }
@@ -138,7 +138,7 @@ a {
 .card {
   min-width: 360px;
   padding: 2rem;
-  box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+  box-shadow: 0 1px 3px 0 #d4d4d5, 0px 1px 2px 7px #eeeef0;
   border-radius: 4px;
   background: white;
 }
